@@ -40,5 +40,6 @@ class Product
             return $resultArray;
         }
     }
+    
 
 }
